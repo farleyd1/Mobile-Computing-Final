@@ -1,0 +1,45 @@
+{
+  "composers":
+  [
+    {
+      "songTitle":"Moonlight Sonata",
+      "composerName":"Ludwig van Beethoven",
+      "yearWritten":"1801",
+      "youtubeCode":"4Tr0otuiQuU",
+      "composerYear":"1770",
+      "portraitLink":"https://i3.radionomy.com/radios/400/3f6b0238-bf48-4f38-a27c-191ed5c2f3b1.jpg"
+    },
+    {
+      "songTitle":"Requiem",
+      "composerName":"Wolfgang Amadeus Mozart",
+      "yearWritten":"1791",
+      "youtubeCode":"sPlhKP0nZII",
+      "composerYear":"1756",
+      "portraitLink":"https://media1.britannica.com/eb-media/50/152550-004-669D4462.jpg"
+    },
+    {
+      "songTitle":"Ave Maria",
+      "composerName":"Franz Schubert",
+      "yearWritten":"1825",
+      "youtubeCode":"zAaJzTWX_Io",
+      "composerYear":"1797",
+      "portraitLink":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Franz_Schubert_by_Wilhelm_August_Rieder_1875.jpg/220px-Franz_Schubert_by_Wilhelm_August_Rieder_1875.jpg"
+    },
+    {
+      "songTitle":"Toccata and Fugue in D Minor",
+      "composerName":"Johann Sebastian Bach",
+      "yearWritten":"1704",
+      "youtubeCode":"ho9rZjlsyYY",
+      "composerYear":"1685",
+      "portraitLink":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Johann_Sebastian_Bach.jpg"
+    },
+    {
+      "songTitle":"Ride of the Valkyries",
+      "composerName":"Richard Wagner",
+      "yearWritten":"1851",
+      "youtubeCode":"GGU1P6lBW6Q",
+      "composerYear":"1813",
+      "portraitLink":"https://www.wagner-tuba.com/rhapsody/wp-content/uploads/2015/11/wagner.jpg"
+    }
+  ]
+}
